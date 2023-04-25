@@ -22,5 +22,5 @@ Dennis M. Ritchie—A.M. Turing Award Laureate. (n.d.). Retrieved April 22, 2023
 National Inventors Hall of Fame - NIHF (Director). (2019, February 18). Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie Story. https://www.youtube.com/watch?v=g3jOJfrOknA
 Ritchie, D. M., Thompson, K., & Laboratories, B. (1974). The UNIX Time- Sharing System. 17(7).
 The UNIX System—History and Timeline—UNIX History. (n.d.). Retrieved April 22, 2023, from https://unix.org/what_is_unix/history_timeline.html
-![image](https://user-images.githubusercontent.com/75743351/234179314-5202fd19-ce16-4229-9795-709f2eff31e7.png)
+
 
