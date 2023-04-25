@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Quynh's blog
 ---
 
-I write about what I learned
+
