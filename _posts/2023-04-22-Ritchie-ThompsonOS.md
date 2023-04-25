@@ -2,6 +2,7 @@
 layout: post
 title: "Ritchie-Thompson-OS"
 date: 2023-04-22
+published: true
 ---
 
 When it comes to computer operating systems, I guess the two names that may immediately come to our mind are (well, obviously) Microsoft Windows and Apple MacOS. I currently use a Mac, but not until learning about the history of operating systems (OSes) did I really get to know the OS in my machine regarding what it really is and its origin. Let me tell you it’s time to laugh at my face all the ways you want, because I felt dumb discovering all MacOS machines are certified UNIX systems. As a computer science student, I’ve been running Unix commands using Mac terminals all the time for assignments, without questioning why such simple but powerful commands could be run so smoothly on a MacOS machine. I’m not sure if I could be any smarter after this blog post, but I want it to be specially dedicated to Unix, one of the best inventions ever. Most of the following content is based on a journal article namely ‘The UNIX Time-Sharing System’ written by Ritchie and Thompson, the fathers of UNIX, published on Communication of the ACM in July 1974. I also incorporate some pieces I found on unix.org, as well as some interesting examples and applications of UNIX presented in documentaries about the Bell Labs. 
