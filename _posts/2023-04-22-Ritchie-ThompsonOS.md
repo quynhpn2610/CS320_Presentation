@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ritchie-Thompson-OS"
 date: 2023-04-22
 ---
